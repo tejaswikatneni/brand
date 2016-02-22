@@ -4,7 +4,6 @@ class CreateAdminCategories < ActiveRecord::Migration
       t.string :title
       t.string :description
       t.string :category
-
       t.timestamps null: false
     end
   end

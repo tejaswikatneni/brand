@@ -9,7 +9,7 @@ development:
   database: brand
   pool: 10
   username: root
-  password: mysql
+  password: katneni247
   shost: localhost
   timeout: 5000
 
@@ -21,7 +21,7 @@ test:
   database: brand
   pool: 10
   username: root
-  password: mysql
+  password: katneni247
   shost: localhost
   timeout: 5000
 
@@ -30,6 +30,6 @@ production:
   database: brand
   pool: 10
   username: root
-  password: mysql
+  password: katneni247
   shost: localhost
   timeout: 5000

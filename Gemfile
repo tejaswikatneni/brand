@@ -31,6 +31,8 @@ gem 'devise-bootstrap-views'
 
 #Devise for Authentication
 gem 'devise'
+# Image uploads
+gem "paperclip", "~> 4.3"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
